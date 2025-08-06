@@ -256,6 +256,6 @@
 ║                    SYSTEM READY                              ║
 ║                    =============                             ║
 ║                                                              ║
-║  ⚡ READY FOR NEW OPPORTUNITIES ⚡                             ║
+║            ⚡ READY FOR NEW OPPORTUNITIES ⚡                   ║
 ╚══════════════════════════════════════════════════════════════╝
 ``` 
