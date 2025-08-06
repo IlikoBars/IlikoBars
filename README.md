@@ -2,14 +2,14 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM PROFILE v2.0.25                   ║
+║                    SYSTEM PROFILE v2.0.25                    ║
 ║                    =========================                 ║
 ║                                                              ║
-║  USER: Ilya Alborov                                         ║
-║  STATUS: ONLINE | AVAILABLE FOR OPPORTUNITIES               ║
-║  LOCATION: Berlin, Germany                                  ║
-║  UPTIME: 25 years, 3 months, 12 days                       ║
-║  LAST UPDATE: [Current Date] 23:59:42 UTC                   ║
+║  USER: Ilya Alborov                                          ║
+║  STATUS: ONLINE | AVAILABLE FOR OPPORTUNITIES                ║
+║  LOCATION: Berlin, Germany                                   ║
+║  UPTIME: 25 years, 3 months, 12 days                         ║
+║  LAST UPDATE: [Current Date] 23:59:42 UTC                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -19,12 +19,12 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  CORE SPECIFICATIONS:                                       │
 │                                                             │
-│  🧠 Primary OS: Human v2.5.2 (Russian)                      │
-│  🌍 Secondary OS: German v2.1.0, English v2.1.0             │
-│  🎓 Education: Software Engineering (Samara State Tech)     │
-│  🎯 Specialization: IT Infrastructure & Automation          │
-│  🏠 Target Location: Berlin, Germany                        │
-│  ⚡ Status: Seeking employment opportunities                 │
+│  Primary OS: Human v2.5.2 (Russian)                         │
+│   Secondary OS: German v2.1.0, English v2.1.0               │
+│    Education: Software Engineering (Samara State Tech)      │
+│     Specialization: IT Infrastructure & Automation          │
+│      Target Location: Berlin, Germany                       │
+│  Status: Seeking employment opportunities                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -95,14 +95,14 @@
 ### [PROJECT-002] Coursera AI Transcript Bot
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  PROJECT STATUS: ACTIVE                                    ║
-║  STACK: Python + Telegram + Playwright + OpenAI API        ║
-║  FEATURES:                                                  ║
-║  • Automated transcript retrieval                          ║
-║  • Restricted content access handling                      ║
-║  • Docker containerization                                 ║
-║  • Asynchronous processing                                 ║
-║  • User-friendly Telegram interface                        ║
+║  PROJECT STATUS: ACTIVE                                      ║
+║  STACK: Python + Telegram + Playwright + OpenAI API          ║
+║  FEATURES:                                                   ║
+║  • Automated transcript retrieval                            ║
+║  • Restricted content access handling                        ║
+║  • Docker containerization                                   ║
+║  • Asynchronous processing                                   ║
+║  • User-friendly Telegram interface                          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
