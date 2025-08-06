@@ -105,7 +105,20 @@
 ║  • User-friendly Telegram interface                          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
+### [PROJECT-003] Telegram Calendar Management Bot
+```
+╔══════════════════════════════════════════════════════════════╗
+║  PROJECT STATUS: ACTIVE                                      ║
+║  STACK: Python + Telegram + OpenAI + Google Calendar API     ║
+║  FEATURES:                                                   ║
+║  • Voice input with speech recognition                       ║
+║  • Smart command analysis via OpenAI GPT                     ║
+║  • Google Calendar integration                               ║
+║  • Automatic reminders (1 hour before events)                ║  
+║  • Timezone support (Europe/Berlin)                          ║
+║  • Multi-API integration (Telegram, OpenAI, Google)          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 ## SYSTEM CAPABILITIES
 
 ### CORE MODULES
