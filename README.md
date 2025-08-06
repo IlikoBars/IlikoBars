@@ -167,20 +167,20 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  AVAILABLE COMMANDS:                                       │
+│  AVAILABLE COMMANDS:                                        │
 │                                                             │
-│  $ ./hire_me.sh [company] [position]                       │
-│  $ ./view_projects.sh                                      │
-│  $ ./download_resume.sh                                    │
-│  $ ./contact.sh                                            │
-│  $ ./system_status.sh                                      │
+│  $ ./hire_me.sh [company] [position]                        │
+│  $ ./view_projects.sh                                       │
+│  $ ./download_resume.sh                                     │
+│  $ ./contact.sh                                             │
+│  $ ./system_status.sh                                       │
 │                                                             │
-│  REAL LINKS:                                               │
-│  📧 Email: mailto:alborovila00@gmail.com                   │
-│  📱 Phone: tel:+4917684372839                              │
-│  🐙 GitHub: https://github.com/IlikoBars                   │
+│  REAL LINKS:                                                │
+│  📧 Email: mailto:alborovila00@gmail.com                    │
+│  📱 Phone: tel:+4917684372839                               │
+│  🐙 GitHub: https://github.com/IlikoBars                    │
 │                                                             │
-└────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────┘
 ```
 ## PERFORMANCE METRICS
 
@@ -219,13 +219,13 @@
 ## SYSTEM LOGS
 
 ```
-[2024-12-19 23:59:42] SYSTEM: Profile updated  
-[2024-12-19 23:59:41] NETWORK: Connected to Berlin job market  
-[2024-12-19 23:59:40] PROJECT: Coursera Bot v1.2 deployed  
-[2024-12-19 23:59:39] PROJECT: Social Network alpha testing  
-[2024-12-19 23:59:38] SKILLS: AWS certification in progress  
-[2024-12-19 23:59:37] NETWORK: LinkedIn profile optimized  
-[2024-12-19 23:59:36] SYSTEM: Ready for new opportunities  
+[2024-12-19 23:59:42] SYSTEM: Profile updated
+[2024-12-19 23:59:41] NETWORK: Connected to Berlin job market
+[2024-12-19 23:59:40] PROJECT: Coursera Bot v1.2 deployed
+[2024-12-19 23:59:39] PROJECT: Social Network alpha testing
+[2024-12-19 23:59:38] SKILLS: AWS certification in progress
+[2024-12-19 23:59:37] NETWORK: LinkedIn profile optimized
+[2024-12-19 23:59:36] SYSTEM: Ready for new opportunities
 ```
 
 ## TERMINAL INTERFACE
@@ -238,7 +238,7 @@
 │  $ pwd                                                      │
 │  > /home/ilya/berlin/opportunities                          │
 │                                                             │
-│  $ ls -la                                                   │
+│  $ ls -la                                                   │ 
 │  > drwxr-xr-x  projects/                                    │
 │  > drwxr-xr-x  skills/                                      │
 │  > drwxr-xr-x  experience/                                  │
@@ -273,6 +273,6 @@
 ║                    SYSTEM READY                              ║
 ║                    =============                             ║
 ║                                                              ║
-║            ⚡ READY FOR NEW OPPORTUNITIES ⚡                   ║
+║             ⚡ READY FOR NEW OPPORTUNITIES ⚡                  ║
 ╚══════════════════════════════════════════════════════════════╝
 ``` 
