@@ -20,7 +20,7 @@
 │  CORE SPECIFICATIONS:                                       │
 │                                                             │
 │  🧠 Primary OS: Human v2.5.2 (Russian)                      │
-│  🌍 Secondary OS: German v2.1.0, English v2.1.0            │
+│  🌍 Secondary OS: German v2.1.0, English v2.1.0             │
 │  🎓 Education: Software Engineering (Samara State Tech)     │
 │  🎯 Specialization: IT Infrastructure & Automation          │
 │  🏠 Target Location: Berlin, Germany                        │
@@ -34,14 +34,14 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  PROCESS: IT Specialist                                     │
-│  PID: ECARF-001                                            │
-│  STATUS: COMPLETED                                         │
+│  PID: ECARF-001                                             │
+│  STATUS: COMPLETED                                          │
 │                                                             │
-│  ACHIEVEMENTS:                                             │
-│  ✓ Built automated data analysis tools                     │
-│  ✓ Optimized CRM workflows (60% efficiency gain)           │
-│  ✓ Integrated new technologies into legacy systems         │
-│  ✓ Reduced manual processing time by 60%                   │
+│  ACHIEVEMENTS:                                              │
+│  ✓ Built automated data analysis tools                      │ 
+│  ✓ Optimized CRM workflows (60% efficiency gain)            │
+│  ✓ Integrated new technologies into legacy systems          │
+│  ✓ Reduced manual processing time by 60%                    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -49,14 +49,14 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  PROCESS: Data Recovery Specialist                          │
-│  PID: GRÜN-002                                            │
-│  STATUS: COMPLETED                                         │
+│  PID: GRÜN-002                                              │
+│  STATUS: COMPLETED                                          │
 │                                                             │
-│  ACHIEVEMENTS:                                             │
-│  ✓ Established efficient recovery workflows                │
-│  ✓ Automated routine tasks with custom scripts             │
-│  ✓ Improved client communication systems                   │
-│  ✓ Enhanced data recovery success rate                     │
+│  ACHIEVEMENTS:                                              │
+│  ✓ Established efficient recovery workflows                 │
+│  ✓ Automated routine tasks with custom scripts              │
+│  ✓ Improved client communication systems                    │
+│  ✓ Enhanced data recovery success rate                      │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -64,14 +64,14 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  PROCESS: IT Support                                        │
-│  PID: BERG-003                                            │
-│  STATUS: COMPLETED                                         │
+│  PID: BERG-003                                              │
+│  STATUS: COMPLETED                                          │
 │                                                             │
-│  ACHIEVEMENTS:                                             │
-│  ✓ Streamlined medical software workflows                  │
-│  ✓ Automated maintenance tasks                             │
-│  ✓ Created productivity tools for staff                    │
-│  ✓ Improved system reliability                             │
+│  ACHIEVEMENTS:                                              │
+│  ✓ Streamlined medical software workflows                   │
+│  ✓ Automated maintenance tasks                              │
+│  ✓ Created productivity tools for staff                     │
+│  ✓ Improved system reliability                              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -80,15 +80,15 @@
 ### [PROJECT-001] Local Social Network "Дзауджие интернет бäцтæ"
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  PROJECT STATUS: ACTIVE                                    ║
-║  STACK: Next.js + FastAPI + MongoDB + Docker               ║
-║  FEATURES:                                                  ║
-║  • Community feed with real-time updates                   ║
-║  • Local event mapping system                              ║
-║  • Idea board with voting mechanism                        ║
-║  • Full localization (Ossetian language)                   ║
-║  • Dark/pastel theme system                                ║
-║  • Responsive design for all devices                       ║
+║  PROJECT STATUS: ACTIVE                                      ║
+║  STACK: Next.js + FastAPI + MongoDB + Docker                 ║
+║  FEATURES:                                                   ║
+║  • Community feed with real-time updates                     ║ 
+║  • Local event mapping system                                ║
+║  • Idea board with voting mechanism                          ║
+║  • Full localization (Ossetian language)                     ║
+║  • Dark/pastel theme system                                  ║
+║  • Responsive design for all devices                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -111,41 +111,41 @@
 ### CORE MODULES
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🔧 SYSTEM ADMINISTRATION:                                 │
-│  • Linux (Ubuntu, Debian) - EXPERT                         │
-│  • Windows Server - ADVANCED                               │
-│  • Service setup & maintenance                             │
-│  • Performance optimization                                │
+│   SYSTEM ADMINISTRATION:                                    │
+│  • Linux (Ubuntu, Debian) - EXPERT                          │
+│  • Windows Server - ADVANCED                                │
+│  • Service setup & maintenance                              │
+│  • Performance optimization                                 │
 │                                                             │
-│  ☁️ CLOUD INFRASTRUCTURE:                                  │
-│  • AWS (EC2, S3, IAM) - ADVANCED                          │
-│  • Docker containerization - EXPERT                        │
-│  • CI/CD pipelines - INTERMEDIATE                          │
-│  • Infrastructure as Code                                  │
+│  ☁ CLOUD INFRASTRUCTURE:                                    │
+│  • AWS (EC2, S3, IAM) - ADVANCED                            │
+│  • Docker containerization - EXPERT                         │
+│  • CI/CD pipelines - INTERMEDIATE                           │
+│  • Infrastructure as Code                                   │
 │                                                             │
-│  📊 MONITORING & SECURITY:                                 │
-│  • Prometheus + Grafana - ADVANCED                         │
-│  • UFW, Fail2ban - EXPERT                                  │
-│  • Log analysis & alerting                                 │
-│  • Security incident response                              │
+│   MONITORING & SECURITY:                                    │
+│  • Prometheus + Grafana - ADVANCED                          │
+│  • UFW, Fail2ban - EXPERT                                   │
+│  • Log analysis & alerting                                  │
+│  • Security incident response                               │
 │                                                             │
-│  🐍 DEVELOPMENT:                                           │
-│  • Python, FastAPI - ADVANCED                              │
-│  • Next.js, React - INTERMEDIATE                           │
-│  • MongoDB, PostgreSQL - INTERMEDIATE                      │
-│  • RESTful API design                                      │
+│   DEVELOPMENT:                                              │
+│  • Python, FastAPI - ADVANCED                               │
+│  • Next.js, React - INTERMEDIATE                            │
+│  • MongoDB, PostgreSQL - INTERMEDIATE                       │
+│  • RESTful API design                                       │
 │                                                             │
-│  🤖 AI & AUTOMATION:                                       │
-│  • ChatGPT API integration - EXPERT                        │
-│  • Custom workflow automation                              │
-│  • Bot development (Telegram)                              │
-│  • AI-powered tool creation                                │
+│   AI & AUTOMATION:                                          │ 
+│  • ChatGPT API integration - EXPERT                         │
+│  • Custom workflow automation                               │
+│  • Bot development (Telegram)                               │
+│  • AI-powered tool creation                                 │
 │                                                             │
-│  🎭 SOFT SKILLS & COMMUNICATION:                          │
-│  • Stand-up comedy performer (Russian) - EXPERT            │
-│  • Public speaking & presentation skills                   │
-│  • Cross-cultural communication                            │
-│  • Team collaboration & leadership                         │
+│   SOFT SKILLS & COMMUNICATION:                              │
+│  • Stand-up comedy performer (Russian) - EXPERT             │
+│  • Public speaking & presentation skills                    │
+│  • Cross-cultural communication                             │
+│  • Team collaboration & leadership                          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -153,14 +153,13 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  📧 EMAIL: alborovila00@gmail.com                          │
-│  📱 PHONE: +49 176 84372839                                │
-│  🏠 LOCATION: Berlin, Germany                              │
-│  💼 STATUS: Available for opportunities                    │
-│  🚀 RESPONSE TIME: < 24 hours                              │
-│                                                             │
-│  🔗 SOCIAL NETWORKS:                                       │
-│  • GitHub: https://github.com/IlikoBars                    │
+│  📧 EMAIL: alborovila00@gmail.com                           │
+│  📱 PHONE: +49 176 84372839                                 │
+│  🏠 LOCATION: Berlin, Germany                               │
+│  💼 STATUS: Available for opportunities                     │
+│  🚀 RESPONSE TIME: < 24 hours                               │
+│  🔗 SOCIAL NETWORKS:                                        │
+│  • GitHub: https://github.com/IlikoBars                     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -172,15 +171,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  📊 SYSTEM PERFORMANCE:                                    ║
+║  📊 SYSTEM PERFORMANCE:                                      ║
 ║                                                              ║
-║  🚀 Efficiency: 95% (Above average)                        ║
-║  🔧 Problem-solving: 90% (Excellent)                       ║
-║  📚 Learning speed: 95% (Rapid adaptation)                 ║
-║  🤝 Team collaboration: 88% (Strong)                       ║
-║  💡 Innovation: 92% (Creative solutions)                   ║
-║  ⚡ Response time: < 24 hours                              ║
-║  🎯 Goal achievement: 100% (Consistent delivery)           ║
+║  🚀 Efficiency: 95% (Above average)                          ║
+║  🔧 Problem-solving: 90% (Excellent)                         ║
+║  📚 Learning speed: 95% (Rapid adaptation)                   ║
+║  🤝 Team collaboration: 88% (Strong)                         ║
+║  💡 Innovation: 92% (Creative solutions)                     ║
+║  ⚡ Response time: < 24 hours                                 ║
+║  🎯 Goal achievement: 100% (Consistent delivery)             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -188,42 +187,42 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🔐 SECURITY STATUS:                                       │
+│   SECURITY STATUS:                                          │
 │                                                             │
-│  ✓ Background check: CLEAR                                 │
-│  ✓ Work authorization: Germany (Blue Card)                 │
-│  ✓ Language proficiency: Russian (Native), German (B2),    │
-│    English (B2)                                            │
-│  ✓ Technical skills: VERIFIED                              │
-│  ✓ Project portfolio: AVAILABLE                            │
-│  ✓ References: AVAILABLE                                   │
+│  ✓ Background check: CLEAR                                  │
+│  ✓ Work authorization: Germany (Blue Card)                  │
+│  ✓ Language proficiency: Russian (Native), German (B2),     │
+│    English (B2)                                             │
+│  ✓ Technical skills: VERIFIED                               │
+│  ✓ Project portfolio: AVAILABLE                             │
+│  ✓ References: AVAILABLE                                    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ## SYSTEM LOGS
 
 ```
-[2024-12-19 23:59:42] SYSTEM: Profile updated
-[2024-12-19 23:59:41] NETWORK: Connected to Berlin job market
-[2024-12-19 23:59:40] PROJECT: Coursera Bot v1.2 deployed
-[2024-12-19 23:59:39] PROJECT: Social Network alpha testing
-[2024-12-19 23:59:38] SKILLS: AWS certification in progress
-[2024-12-19 23:59:37] NETWORK: LinkedIn profile optimized
-[2024-12-19 23:59:36] SYSTEM: Ready for new opportunities
+[2024-12-19 23:59:42] SYSTEM: Profile updated  
+[2024-12-19 23:59:41] NETWORK: Connected to Berlin job market  
+[2024-12-19 23:59:40] PROJECT: Coursera Bot v1.2 deployed  
+[2024-12-19 23:59:39] PROJECT: Social Network alpha testing  
+[2024-12-19 23:59:38] SKILLS: AWS certification in progress  
+[2024-12-19 23:59:37] NETWORK: LinkedIn profile optimized  
+[2024-12-19 23:59:36] SYSTEM: Ready for new opportunities  
 ```
 
 ## TERMINAL INTERFACE
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  $ whoami                                                  │
-│  > ilya_alborov                                            │
+│  $ whoami                                                   │
+│  > ilya_alborov                                             │
 │                                                             │
-│  $ pwd                                                     │
-│  > /home/ilya/berlin/opportunities                         │
+│  $ pwd                                                      │
+│  > /home/ilya/berlin/opportunities                          │
 │                                                             │
-│  $ ls -la                                                  │
-│  > drwxr-xr-x  projects/                                   │
+│  $ ls -la                                                   │
+│  > drwxr-xr-x  projects/                                    │
 │  > drwxr-xr-x  skills/                                      │
 │  > drwxr-xr-x  experience/                                  │
 │  > -rw-r--r--  resume.pdf                                   │
@@ -254,9 +253,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM READY                            ║
-║                    =============                            ║
+║                    SYSTEM READY                              ║
+║                    =============                             ║
 ║                                                              ║
-║  ⚡ READY FOR NEW OPPORTUNITIES ⚡                          ║
+║  ⚡ READY FOR NEW OPPORTUNITIES ⚡                             ║
 ╚══════════════════════════════════════════════════════════════╝
 ``` 
